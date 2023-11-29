@@ -1,45 +1,48 @@
-const header = 'Welcome to this wonderful example timeline.';
+const header = 'Les JOP 2024, ça va être bien';
 const footer = 'A footer goes here.';
 const entries = [
   {
     id: 'cat',
-    categories: ['cat'],
+    categories: ['social'],
     color: 'green',
     faicon: 'cat',
-    datetime: '2021-01-01 05:00',
-    title: 'Cats are very good',
-    image: {
-      link: 'http://placekitten.com',
-      src: 'http://placekitten.com/200/300',
-      alt: 'A placeholder kitten',
-      caption: 'Kitten!',
-    },
-    body: "The best thing in the universe is a cardboard box. Chirp at birds catasstrophe for meowwww for hiding behind the couch until lured out by a feathery toy for morning beauty routine of licking self sugar, my siamese, stalks me (in a good way), day and night lick the other cats. Pushed the mug off the table shove bum in owner's face like camera lens or tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad and grass smells good, licks your face, but hiiiiiiiiii feed me now.",
+    datetime: '2024-11-28 06:00',
+    title: 'Le prestataire pour les appels téléphoniques est déjà en souffrance',
+    body: "Le marché a été attribué à une entreprise qui a proposé une prestation au rabais, la suite va vous étonner.",
     links: [
       {
-        href: 'https://en.wikipedia.org/wiki/Cat',
-        linkText: 'Cat',
+        href: 'https://www.politis.fr/articles/2023/11/info-politis-le-prestataire-telephonique-des-jo-2024-en-souffrance-olympique/',
+        linkText: 'Politis',
       },
     ],
   },
   {
-    id: 'dog',
-    categories: ['dog'],
+    id: 'cat',
+    categories: ['surveillance'],
     color: 'green',
-    faicon: 'dog',
-    datetime: '2021-05-01 23:55',
-    title: 'Puppies are great too',
-    image: {
-      link: 'http://place-puppy.com',
-      src: 'https://place-puppy.com/300x300',
-      alt: 'A placeholder puppy',
-      caption: 'Puppy!',
-    },
-    body: 'Doggo ipsum sub woofer smol wow very biscit aqua doggo pupper dat tungg tho big ol pupper, very jealous pupper mlem heckin angery woofer very jealous pupper. Blep waggy wags long doggo, corgo. Tungg wow such tempt mlem very jealous pupper boofers lotsa pats, snoot smol big ol ruff doge super chub, long doggo heckin good boys and girls h*ck heck. Shoober blop many pats borkf, such treat. Big ol what a nice floof long water shoob wrinkler heck sub woofer, pupper porgo wow very biscit.',
+    faicon: 'cat',
+    datetime: '2024-11-28 05:00',
+    title: 'Des QR code pour circuler à paris',
+    body: "On pensait en avoir fini avec les QR codes mais grace au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
     links: [
       {
-        href: 'https://en.wikipedia.org/wiki/Dog',
-        linkText: 'Dog',
+        href: 'https://www.bfmtv.com/paris/vous-aurez-un-qr-code-une-derogation-sera-necessaire-pour-circuler-dans-paris-lors-des-j0-2024_AN-202311290043.html',
+        linkText: 'BFMTV',
+      },
+    ],
+  },
+  {
+    id: 'cat',
+    categories: ['transport', 'économie'],
+    color: 'green',
+    faicon: 'cat',
+    datetime: '2024-11-27 05:00',
+    title: 'Augmentation des tarifs de transports pendant les JOP',
+    body: "Pour « assurer les transports » pendant les Jeux Olympiques et Paralympiques, Île-de-France Mobilités passera le prix des tickets de métro à l'unité à 4,00 euros alors qu'ils sont à 2,10 euros aujourd'hui.",
+    links: [
+      {
+        href: 'https://www.liberation.fr/sports/jeux-olympiques/ticket-de-metro-a-quatre-euros-aux-jo-2024-les-transports-etaient-ils-aussi-chers-a-londres-ou-a-rio-20231129_TWSOLOM6O5EMZHEPUG255R6LVQ/',
+        linkText: 'Libération',
       },
     ],
   },
