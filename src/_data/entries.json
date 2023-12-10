@@ -1,9 +1,49 @@
 [
   {
+    "id":"tarif-louvre-2023",
+    "title":"Augmentation du tarif du musée du Louvre",
+    "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux Olympiques. Drôle de coïncidence, non ?",
+    "datetime":1701993600000,
+    "faicon":"money-bill-alt",
+    "categories":[
+      "économie",
+      "culture"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"tarif-louvre-2023",
+        "href":"https:\/\/www.francetvinfo.fr\/culture\/arts-expos\/louvre\/le-musee-du-louvre-va-fortement-augmenter-ses-tarifs-a-six-mois-des-jeux-olympiques_6231621.html",
+        "linkText":"France Info",
+        "date":"12\/8\/2023"
+      }
+    ]
+  },
+  {
+    "id":"beaune-télétravail-2023",
+    "title":"Prière de télétravailler pendant la durée des jeux",
+    "body":"Le ministre des transports prévient que l'infrastructure de transport ne sera pas là en priorité pour les \"usagers du quotidiens\" qui sont priés de s'organiser, notamment en télétravaillant ou en posant des congés. On en est où des entreprises qui continuent à accepter le télétravail.",
+    "datetime":1701907200000,
+    "faicon":"desktop",
+    "categories":[
+      "transport",
+      "social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"beaune-télétravail-2023",
+        "href":"https:\/\/twitter.com\/franceinfo\/status\/1732667873468809259",
+        "linkText":"France Info (X)",
+        "date":"12\/10\/2023"
+      }
+    ]
+  },
+  {
     "id":"callcenter-2023",
     "title":"Le prestataire pour les appels téléphoniques est déjà en souffrance",
     "body":"Le marché a été attribué à une entreprise qui a proposé une prestation au rabais, la suite va vous étonner.",
-    "datetime":"2024-11-28 6:00",
+    "datetime":1701151200000,
     "faicon":"phone",
     "categories":[
       "social"
@@ -22,7 +62,7 @@
     "id":"qrcode-2023",
     "title":"Des QR code pour circuler à paris",
     "body":"On pensait en avoir fini avec les QR codes mais grace au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
-    "datetime":"2024-11-28 5:00",
+    "datetime":1701147600000,
     "faicon":"eye",
     "categories":[
       "surveillance"
@@ -41,7 +81,7 @@
     "id":"tarif-metro-2023",
     "title":"Augmentation des tarifs de transports pendant les JOP",
     "body":"Pour « assurer les transports » pendant les Jeux Olympiques et Paralympiques, Île-de-France Mobilités passera le prix des tickets de métro à l'unité à 4,00 euros alors qu'ils sont à 2,10 euros aujourd'hui.",
-    "datetime":"2024-11-27 5:00",
+    "datetime":1701061200000,
     "faicon":"train",
     "categories":[
       "transport",
@@ -64,42 +104,59 @@
     ]
   },
   {
-    "id":"beaune-télétravail-2023",
-    "title":"Prière de télétravailler pendant la durée des jeux",
-    "body":"Le ministre des transports prévient que l'infrastructure de transport ne sera pas là en priorité pour les \"usagers du quotidiens\" qui sont priés de s'organiser, notamment en télétravaillant ou en posant des congés. On en est où des entreprises qui continuent à accepter le télétravail.",
-    "datetime":"12\/7\/2023",
-    "faicon":"desktop",
+    "id":"attribution-2017",
+    "title":"Paris se voit attribué les Jeux de 2024",
+    "body":"par un vote à l'unamité et à main levée par les membres du CIO. Elle est la seule candidate.",
+    "datetime":1505260800000,
+    "faicon":"handshake",
     "categories":[
-      "transport",
-      "social"
+      "démocratie"
     ],
-    "color":"red",
+    "color":"grey",
     "links":[
       {
-        "evenement":"beaune-télétravail-2023",
-        "href":"https:\/\/twitter.com\/franceinfo\/status\/1732667873468809259",
-        "linkText":"France Info (X)",
-        "date":"12\/10\/2023"
+        "evenement":"attribution-2017",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
       }
     ]
   },
   {
-    "id":"tarif-louvre-2023",
-    "title":"Augmentation du tarif du musée du Louvre",
-    "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux Olympiques. Drôle de coïncidence, non ?",
-    "datetime":"12\/8\/2023",
-    "faicon":"money-bill-alt",
+    "id":"budapest",
+    "title":"Budabest retire sa candidature",
+    "body":"suite à la mobilisation d'un mouvement de jeunes militants.",
+    "datetime":1487721600000,
+    "faicon":"hand-paper",
     "categories":[
-      "économie",
-      "culture"
+      "démocratie"
     ],
-    "color":"red",
+    "color":"grey",
     "links":[
       {
-        "evenement":"tarif-louvre-2023",
-        "href":"https:\/\/www.francetvinfo.fr\/culture\/arts-expos\/louvre\/le-musee-du-louvre-va-fortement-augmenter-ses-tarifs-a-six-mois-des-jeux-olympiques_6231621.html",
-        "linkText":"France Info",
-        "date":"12\/8\/2023"
+        "evenement":"budapest",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"rome",
+    "title":"Rome retire sa candidature",
+    "body":"mais on ne sait pas trop pourquoi.",
+    "datetime":1476144000000,
+    "faicon":"hand-paper",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"grey",
+    "links":[
+      {
+        "evenement":"rome",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
       }
     ]
   },
@@ -107,7 +164,7 @@
     "id":"docu-datagueule-2016",
     "title":"Sport mondialisé : du pain et des jeux",
     "body":"<blockquote>Jeux Olympiques, Coupes du Monde, d'Europe, Tour de France, Grand Chelem et autres... À travers la multiplications des grands événements sportifs mondialisés, l'émotion se diffuse et les valeurs du sport infusent. De grands idéaux devenus, au fil des sponsors, des slogans publicitaires qui envahissent l'espace public à chaque grande messe. Partons donc de l’Olympisme, ce berceau du sport mondial, pour questionner cette évidence du \"sport fédérateur\".<\/blockquote>",
-    "datetime":"2016-07-11",
+    "datetime":1468195200000,
     "faicon":"video",
     "categories":[
       "critique"
@@ -119,6 +176,69 @@
         "href":"https:\/\/www.youtube.com\/watch?v=YYgy2lEbFmc&ab_channel=DataGueule",
         "linkText":"Data Gueule",
         "date":"2016-07-11"
+      }
+    ]
+  },
+  {
+    "id":"hambourg",
+    "title":"Hambourg abandonne sa candidature",
+    "body":"suite à un référendum majoritairement opposé à la candidature.",
+    "datetime":1448755200000,
+    "faicon":"hand-paper",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"grey",
+    "links":[
+      {
+        "evenement":"hambourg",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"boston",
+    "title":"Boston abandonne sa candidature",
+    "body":"faute de soutins populaire et après refus du maire.",
+    "datetime":1437955200000,
+    "faicon":"hand-paper",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"grey",
+    "links":[
+      {
+        "evenement":"boston",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"candidature-2015",
+    "title":"Paris candidate pour l'organisation des jeux d'été",
+    "body":null,
+    "datetime":1435017600000,
+    "faicon":"star",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"grey",
+    "links":[
+      {
+        "evenement":"candidature-2015",
+        "href":"https:\/\/web.archive.org\/web\/20150628045203\/http:\/\/www.paris.fr\/actualites\/paris-entre-dans-la-course-aux-jeux-olympiques-2612",
+        "linkText":"Mairie de Paris (Web Archive)",
+        "date":null
+      },
+      {
+        "evenement":"candidature-2015",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
       }
     ]
   }
