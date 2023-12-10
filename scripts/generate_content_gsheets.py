@@ -31,7 +31,7 @@ links
 (
     events
     .assign(
-        categories = lambda df: df.categories.str.split(','),
+        categories = lambda df: df.categories.str.split(',').apply(lambda l: [ x.strip() for x in l]),
         links = lambda df: df.apply(lambda r: links.query('evenement == @r.id'), axis=1)
     )
     .to_json(

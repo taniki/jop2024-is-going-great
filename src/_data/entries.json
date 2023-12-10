@@ -45,7 +45,7 @@
     "faicon":"train",
     "categories":[
       "transport",
-      " économie"
+      "économie"
     ],
     "color":"red",
     "links":[
@@ -71,7 +71,7 @@
     "faicon":"desktop",
     "categories":[
       "transport",
-      " social"
+      "social"
     ],
     "color":"red",
     "links":[
@@ -91,7 +91,7 @@
     "faicon":"money-bill-alt",
     "categories":[
       "économie",
-      " culture"
+      "culture"
     ],
     "color":"red",
     "links":[
