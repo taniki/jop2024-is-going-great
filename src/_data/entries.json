@@ -1,53 +1,124 @@
 [
   {
-    "id":"cat",
+    "id":"callcenter-2023",
+    "title":"Le prestataire pour les appels téléphoniques est déjà en souffrance",
+    "body":"Le marché a été attribué à une entreprise qui a proposé une prestation au rabais, la suite va vous étonner.",
+    "datetime":"2024-11-28 6:00",
+    "faicon":"phone",
     "categories":[
       "social"
     ],
-    "color":"green",
-    "faicon":"cat",
-    "datetime":"2024-11-28 06:00",
-    "title":"Le prestataire pour les appels téléphoniques est déjà en souffrance",
-    "body":"Le marché a été attribué à une entreprise qui a proposé une prestation au rabais, la suite va vous étonner.",
+    "color":"red",
     "links":[
       {
-        "href":"https://www.politis.fr/articles/2023/11/info-politis-le-prestataire-telephonique-des-jo-2024-en-souffrance-olympique/",
-        "linkText":"Politis"
+        "evenement":"callcenter-2023",
+        "href":"https:\/\/www.politis.fr\/articles\/2023\/11\/info-politis-le-prestataire-telephonique-des-jo-2024-en-souffrance-olympique\/",
+        "linkText":"Politis",
+        "date":"2024-11"
       }
     ]
   },
   {
-    "id":"cat",
+    "id":"qrcode-2023",
+    "title":"Des QR code pour circuler à paris",
+    "body":"On pensait en avoir fini avec les QR codes mais grace au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
+    "datetime":"2024-11-28 5:00",
+    "faicon":"eye",
     "categories":[
       "surveillance"
     ],
-    "color":"green",
-    "faicon":"cat",
-    "datetime":"2024-11-28 05:00",
-    "title":"Des QR code pour circuler à paris",
-    "body":"On pensait en avoir fini avec les QR codes mais grace au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
+    "color":"red",
     "links":[
       {
-        "href":"https://www.bfmtv.com/paris/vous-aurez-un-qr-code-une-derogation-sera-necessaire-pour-circuler-dans-paris-lors-des-j0-2024_AN-202311290043.html",
-        "linkText":"BFMTV"
+        "evenement":"qrcode-2023",
+        "href":"https:\/\/www.bfmtv.com\/paris\/vous-aurez-un-qr-code-une-derogation-sera-necessaire-pour-circuler-dans-paris-lors-des-j0-2024_AN-202311290043.html",
+        "linkText":"BFM",
+        "date":"2024-11"
       }
     ]
   },
   {
-    "id":"cat",
-    "categories":[
-      "transport",
-      "économie"
-    ],
-    "color":"green",
-    "faicon":"cat",
-    "datetime":"2024-11-27 05:00",
+    "id":"tarif-metro-2023",
     "title":"Augmentation des tarifs de transports pendant les JOP",
     "body":"Pour « assurer les transports » pendant les Jeux Olympiques et Paralympiques, Île-de-France Mobilités passera le prix des tickets de métro à l'unité à 4,00 euros alors qu'ils sont à 2,10 euros aujourd'hui.",
+    "datetime":"2024-11-27 5:00",
+    "faicon":"train",
+    "categories":[
+      "transport",
+      " économie"
+    ],
+    "color":"red",
     "links":[
       {
-        "href":"https://www.liberation.fr/sports/jeux-olympiques/ticket-de-metro-a-quatre-euros-aux-jo-2024-les-transports-etaient-ils-aussi-chers-a-londres-ou-a-rio-20231129_TWSOLOM6O5EMZHEPUG255R6LVQ/",
-        "linkText":"Libération"
+        "evenement":"tarif-metro-2023",
+        "href":"https:\/\/www.liberation.fr\/sports\/jeux-olympiques\/ticket-de-metro-a-quatre-euros-aux-jo-2024-les-transports-etaient-ils-aussi-chers-a-londres-ou-a-rio-20231129_TWSOLOM6O5EMZHEPUG255R6LVQ\/",
+        "linkText":"Libération",
+        "date":"2024-11"
+      },
+      {
+        "evenement":"tarif-metro-2023",
+        "href":"https:\/\/www.lemonde.fr\/les-decodeurs\/article\/2023\/11\/29\/paris-2024-visualisez-les-hausses-de-tarif-des-transports-pour-les-jo-et-le-reste-de-l-annee-2024_6202979_4355770.html",
+        "linkText":"Le Monde",
+        "date":"2024-11-29"
+      }
+    ]
+  },
+  {
+    "id":"beaune-télétravail-2023",
+    "title":"Prière de télétravailler pendant la durée des jeux",
+    "body":"Le ministre des transports prévient que l'infrastructure de transport ne sera pas là en priorité pour les \"usagers du quotidiens\" qui sont priés de s'organiser, notamment en télétravaillant ou en posant des congés. On en est où des entreprises qui continuent à accepter le télétravail.",
+    "datetime":"12\/7\/2023",
+    "faicon":"desktop",
+    "categories":[
+      "transport",
+      " social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"beaune-télétravail-2023",
+        "href":"https:\/\/twitter.com\/franceinfo\/status\/1732667873468809259",
+        "linkText":"France Info (X)",
+        "date":"12\/10\/2023"
+      }
+    ]
+  },
+  {
+    "id":"tarif-louvre-2023",
+    "title":"Augmentation du tarif du musée du Louvre",
+    "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux Olympiques. Drôle de coïncidence, non ?",
+    "datetime":"12\/8\/2023",
+    "faicon":"money-bill-alt",
+    "categories":[
+      "économie",
+      " culture"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"tarif-louvre-2023",
+        "href":"https:\/\/www.francetvinfo.fr\/culture\/arts-expos\/louvre\/le-musee-du-louvre-va-fortement-augmenter-ses-tarifs-a-six-mois-des-jeux-olympiques_6231621.html",
+        "linkText":"France Info",
+        "date":"12\/8\/2023"
+      }
+    ]
+  },
+  {
+    "id":"docu-datagueule-2016",
+    "title":"Sport mondialisé : du pain et des jeux",
+    "body":"<blockquote>Jeux Olympiques, Coupes du Monde, d'Europe, Tour de France, Grand Chelem et autres... À travers la multiplications des grands événements sportifs mondialisés, l'émotion se diffuse et les valeurs du sport infusent. De grands idéaux devenus, au fil des sponsors, des slogans publicitaires qui envahissent l'espace public à chaque grande messe. Partons donc de l’Olympisme, ce berceau du sport mondial, pour questionner cette évidence du \"sport fédérateur\".<\/blockquote>",
+    "datetime":"2016-07-11",
+    "faicon":"video",
+    "categories":[
+      "critique"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"docu-datagueule-2016",
+        "href":"https:\/\/www.youtube.com\/watch?v=YYgy2lEbFmc&ab_channel=DataGueule",
+        "linkText":"Data Gueule",
+        "date":"2016-07-11"
       }
     ]
   }
