@@ -106,13 +106,13 @@
   {
     "id":"attribution-2017",
     "title":"Paris se voit attribué les Jeux de 2024",
-    "body":"par un vote à l'unamité et à main levée par les membres du CIO. Elle est la seule candidate.",
+    "body":"par un vote à l'unamité et à main levée par les membres du CIO. Elle est la seule candidate. Los Angeles qui était également candidate se voit attribué les jeux d'été de 2028 et retire ainsi sa candidature.",
     "datetime":1505260800000,
     "faicon":"handshake",
     "categories":[
       "démocratie"
     ],
-    "color":"grey",
+    "color":"red",
     "links":[
       {
         "evenement":"attribution-2017",
@@ -125,7 +125,7 @@
   {
     "id":"budapest",
     "title":"Budapest retire sa candidature",
-    "body":"suite à la mobilisation d'un mouvement de jeunes militants.",
+    "body":"suite à la mobilisation d'un mouvement de jeunes militants. Ces derniers disent détenir une pétition avec 300 000 signatures ce qui est le double du nombre nécessaire pour intier un référendum.",
     "datetime":1487721600000,
     "faicon":"hand-paper",
     "categories":[
@@ -220,13 +220,13 @@
   {
     "id":"candidature-2015",
     "title":"Paris candidate pour l'organisation des jeux d'été",
-    "body":null,
+    "body":"La candidature est présidée par Anne Hidalgo et Tony Estanguet.",
     "datetime":1435017600000,
     "faicon":"star",
     "categories":[
       "démocratie"
     ],
-    "color":"grey",
+    "color":"red",
     "links":[
       {
         "evenement":"candidature-2015",
@@ -238,6 +238,50 @@
         "evenement":"candidature-2015",
         "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
         "linkText":"Wikipedia",
+        "date":null
+      },
+      {
+        "evenement":"candidature-2015",
+        "href":"https:\/\/www.capital.fr\/economie-politique\/quand-anne-hidalgo-ne-voulait-pas-des-jo-1244084",
+        "linkText":"Capital",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"hollande-2014",
+    "title":"François Hollande balance Paris sous le bus des jeux olympiques.",
+    "body":"<blockquote>Alors président de la République, il qualifie les JO de “moment de ferveur” qui ramènera “plein d’emplois, plein d’industries”. Et d’ajouter que la maire de Paris ne veut prendre “aucun risque” car “dans la vie on est jamais trop prudent”.<\/blockquote>",
+    "datetime":1415232000000,
+    "faicon":"glasses",
+    "categories":[
+      "politique"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"hollande-2014",
+        "href":"https:\/\/www.capital.fr\/economie-politique\/quand-anne-hidalgo-ne-voulait-pas-des-jo-1244084",
+        "linkText":"Capital",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"hidalgo-2014",
+    "title":"Anne Hidalgo n'est pas favorable à une nouvelle candidature de la ville de Paris.",
+    "body":"La ville a déjà candidaté 3 fois : en 1990, en 2008 et en 2012. Elle a essuyé 3 échecs. Alors en pleine campagne électorale, Anne Hidalgo s'exprime assez clairement comme étant défavorable, pour des raisons économiques, à une nouvelle candidature.",
+    "datetime":1393891200000,
+    "faicon":"medal",
+    "categories":[
+      "politique"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"hidalgo-2014",
+        "href":"https:\/\/france3-regions.francetvinfo.fr\/paris-ile-de-france\/paris\/jo-2024-hidalgo-pas-vraiment-favorable-une-candidature-de-paris-427023.html",
+        "linkText":"France Info",
         "date":null
       }
     ]
