@@ -15,6 +15,9 @@ dest = "../src/_data/entries.json"
 events = (
     pd
     .read_csv(events_url)
+    .assign(
+        datetime = lambda df: pd.to_datetime(df.datetime)
+    )
 )
 
 events
@@ -34,6 +37,7 @@ links
         categories = lambda df: df.categories.str.split(',').apply(lambda l: [ x.strip() for x in l]),
         links = lambda df: df.apply(lambda r: links.query('evenement == @r.id'), axis=1)
     )
+    .sort_values('datetime', ascending=False)
     .to_json(
         dest,
         orient='records',
