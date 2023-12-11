@@ -201,7 +201,7 @@
   {
     "id":"boston",
     "title":"Boston abandonne sa candidature",
-    "body":"faute de soutiens populaire et après refus du maire.",
+    "body":"faute de soutiens populaire. Le maire n'était pas non plus franchement chaud.",
     "datetime":1437955200000,
     "faicon":"hand-paper",
     "categories":[
@@ -212,6 +212,12 @@
       {
         "evenement":"boston",
         "href":"https:\/\/fr.wikipedia.org\/wiki\/Jeux_olympiques_d'%C3%A9t%C3%A9_de_2024",
+        "linkText":"Wikipedia",
+        "date":null
+      },
+      {
+        "evenement":"boston",
+        "href":"https:\/\/en.wikipedia.org\/wiki\/Boston_bid_for_the_2024_Summer_Olympics",
         "linkText":"Wikipedia",
         "date":null
       }
