@@ -1,4 +1,4 @@
-const header = 'JOP 2024 : Ouvrons Grand Les Gueux';
+const header = '<h1>JOP 2024 : Ouvrons Grand Les Gueux</h1>';
 const footer = 'A footer goes here.';
 const entries = require('./entries.json')
 
