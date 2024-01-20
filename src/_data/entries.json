@@ -1,5 +1,24 @@
 [
   {
+    "id":"logement-benevoles",
+    "title":"Pas de logement pour les bénévoles",
+    "body":"45 000 personnes volontaires et bénévoles travailleront gratuitement pour la gloire des jeux et les bénéfices des sponsors. Cela sera à eux de se trouver un loger pour eux-même. Cela n'aura certainement aucun impact sur la présence des bénévoles.",
+    "datetime":1705622400000,
+    "faicon":"house-user",
+    "categories":[
+      "social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"logement-benevoles",
+        "href":"https:\/\/www.francetvinfo.fr\/les-jeux-olympiques\/paris-2024\/paris-2024-les-volontaires-doivent-se-debrouiller-pour-trouver-un-logement-declare-le-delegue-interministeriel-aux-jeux_6315693.html",
+        "linkText":"France Info",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"tarif-louvre-2023",
     "title":"Augmentation du tarif du musée du Louvre",
     "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux Olympiques. Drôle de coïncidence, non ?",
@@ -100,6 +119,58 @@
         "href":"https:\/\/www.lemonde.fr\/les-decodeurs\/article\/2023\/11\/29\/paris-2024-visualisez-les-hausses-de-tarif-des-transports-pour-les-jo-et-le-reste-de-l-annee-2024_6202979_4355770.html",
         "linkText":"Le Monde",
         "date":"2024-11-29"
+      }
+    ]
+  },
+  {
+    "id":"rapport-cc",
+    "title":"La Cour des Comptes",
+    "body":"Dans un rapport publié en juillet 2023, la Cour des Comptes estime que le budget de l'organisation des jeux est largement sous-estimé et cela malgré la rallonge pour compenser l'inflation.",
+    "datetime":1689811200000,
+    "faicon":"money-bill-alt",
+    "categories":[
+      "économie"
+    ],
+    "color":"red",
+    "links":[
+
+    ]
+  },
+  {
+    "id":"tokyo",
+    "title":"L'histoire chaotique des JO de Tokyo 2020",
+    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédentes des jeux olympiques et paralympiques. On y apprend comment s'est déroulé la décision de reporter d'une année l'événement en raison du covid et de la population.",
+    "datetime":1689811200000,
+    "faicon":"video",
+    "categories":[
+      "critique"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"tokyo",
+        "href":"https:\/\/www.youtube.com\/watch?v=MFt_73746Ts",
+        "linkText":"Musubi",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"jardins-aubervilliers-4",
+    "title":"Le solarium ne sera finalement pas construit",
+    "body":"Après des mois de mobilisation, les organisateurs revoient leur copie urbanistique et abandonnent la construction d'un solarium sur une partie des jardins partagés. Les pelleteuses étant tout de même passées par là, le mal est à moitié fait et aucune réparation n'est envisagée.",
+    "datetime":1657152000000,
+    "faicon":"tree",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"jardins-aubervilliers-4",
+        "href":"https:\/\/france3-regions.francetvinfo.fr\/paris-ile-de-france\/seine-saint-denis\/jo-2024-la-piscine-d-aubervilliers-verra-bien-le-jour-mais-les-jardins-ouvriers-seront-preserves-2577948.html",
+        "linkText":"France Info",
+        "date":null
       }
     ]
   },
