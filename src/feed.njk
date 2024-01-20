@@ -30,7 +30,7 @@
     <title>{{ post.title }}</title>
     <link href="{{ metadata.url}}#{{ post.id }}" />
     <updated>{{ post.date | dateToRfc3339 }}</updated>
-    <id>{{ metadata.url}}#{{ post.id }}</id>
+    <id>{{ metadata.url}}#{{ post.id | urlencode }}</id>
     <content type="html"><![CDATA[
         <p>{{ post.body }}</p>
         <ul>
