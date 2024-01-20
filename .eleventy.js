@@ -1,8 +1,11 @@
 const pluginSass = require('eleventy-sass');
 const postcss = require('postcss');
 const autoprefixer = require('autoprefixer');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
+  
   eleventyConfig.addPlugin(pluginSass, {
     postcss: postcss([autoprefixer]),
     input: './src/css/*.sass',

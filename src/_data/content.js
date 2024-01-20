@@ -24,7 +24,9 @@ const getFilters = (entries) => {
 };
 
 const addCategoriesStringsToEntries = (entries) => {
-  for (const entry of entries) {
+    for (const entry of entries) {
+        entry.date = new Date(entry.datetime);
+
     if (Object.prototype.hasOwnProperty.call(entry, 'categories')) {
       entry.categoriesString = entry.categories.join(',');
     }

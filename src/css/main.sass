@@ -38,12 +38,18 @@ footer.page-footer
 	padding: 200px 0
 	text-align: center
 
-	p
+	ul
 		width: 80%
 		max-width: 1400px
 		line-height: 120%
 		color: #eee
 		margin: 0px auto 10px auto
+
+		li
+			display: inline
+			&:not(:last-child):after
+				content: "•"
+				margin: 0 0.5em
 
 	a
 		color: $header-footer-link-color

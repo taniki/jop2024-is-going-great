@@ -86,16 +86,13 @@
     </section>
     <% if (content.footer) { %>
     <footer class="page-footer">
-      <% if (!utilities.isWrappedInParagraphTags(content.footer)) { %>
-      <p>
-        <% } %> <%- content.footer %> <% if (!utilities.isWrappedInParagraphTags(content.footer)) {
-        %>
-      </p>
-      <% } %>
-      <p>
-        Propulsé par le 
-        <a href="https://github.com/molly/static-timeline-generator" target="_blank">static timeline generator</a> de <a href="https://mollywhite.net/">Molly White</a>.
-      </p>
+      <ul>
+            <li><a href="https://github.com/taniki/jop2024-is-going-great">code source</a></li>
+            <li><a href="/feed.xml">fil rss</a></li>
+            <li>propulsé par le 
+                <a href="https://github.com/molly/static-timeline-generator" target="_blank">static timeline generator</a> de <a href="https://mollywhite.net/">Molly White</a>
+            </li>
+      </ul>
     </footer>
     <% } %>
 

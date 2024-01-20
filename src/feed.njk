@@ -1,0 +1,48 @@
+---json
+{
+  "permalink": "feed.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "jop 2024 are going great",
+    "url": "https://jop2024.lol/",
+    "feedUrl": "https://jop2024.lol/feed.xml",
+    "author": {
+      "name": "tam kien duong",
+      "email": "tk@renard.ninja"
+    }
+  }
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ metadata.title }}</title>
+  <link href="{{ metadata.feedUrl }}" rel="self"/>
+  <link href="{{ metadata.url }}"/>
+  <updated>{{ content.entries | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ metadata.url }}</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+  {%- for post in content.entries %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link>{{ metadata.url}}#{{ post.id }}</link>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ post.id }}</id>
+    <content type="html">
+        <p>{{ post.body }}</p>
+        <ul>
+            {%- for link in post.links %}
+            <li>
+                <a href="{{ link.href }}">
+                    {{ link.linkText }}
+                </a>
+            </li>
+            {%- endfor %}
+        </ul>
+    </content>
+  </entry>
+  {%- endfor %}
+</feed>
