@@ -152,7 +152,12 @@
     ],
     "color":"red",
     "links":[
-
+      {
+        "evenement":"rapport-cc",
+        "href":"https:\/\/www.ccomptes.fr\/fr\/publications\/lorganisation-des-jeux-olympiques-et-paralympiques-de-paris-2024-1",
+        "linkText":"Cour des Comptes",
+        "date":null
+      }
     ]
   },
   {
