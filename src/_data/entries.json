@@ -19,6 +19,25 @@
     ]
   },
   {
+    "id":"eaux-1",
+    "title":"L'eau de la Seine loin des normes sanitaires à quelques mois des Jeux",
+    "body":"Une enquête de France Info détaille dans un article très intéressant comment les tests de qualité de l'eau de la Seine révèlent qu'il sera certainement dangereux d'y héberger des épreuves sportives. Cela n'a pas déjà empêché des compétitions de s'y dérouler alors que les niveaux recommandés par l'ARS Île-de-France étaient complètement dépassés.",
+    "datetime":1705536000000,
+    "faicon":"swimmer",
+    "categories":[
+      "écologie"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"eaux-1",
+        "href":"https:\/\/www.francetvinfo.fr\/les-jeux-olympiques\/paris-2024\/enquete-franceinfo-paris-2024-pollution-trop-elevee-normes-non-respectees-ce-que-revelent-les-analyses-de-la-qualite-de-l-eau-de-la-seine_6173826.html",
+        "linkText":"France Info",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"tarif-louvre-2023",
     "title":"Augmentation du tarif du musée du Louvre",
     "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux Olympiques. Drôle de coïncidence, non ?",
@@ -145,7 +164,7 @@
     "categories":[
       "critique"
     ],
-    "color":"red",
+    "color":"green",
     "links":[
       {
         "evenement":"tokyo",
