@@ -162,25 +162,6 @@
     ]
   },
   {
-    "id":"tokyo",
-    "title":"L'histoire chaotique des JO de Tokyo 2020",
-    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédente des jeux olympiques et paralympiques. On y apprend comment s'est déroulée la décision de reporter d'une année l'événement en raison du covid et de la population.",
-    "datetime":1689811200000,
-    "faicon":"video",
-    "categories":[
-      "critique"
-    ],
-    "color":"green",
-    "links":[
-      {
-        "evenement":"tokyo",
-        "href":"https:\/\/www.youtube.com\/watch?v=MFt_73746Ts",
-        "linkText":"Musubi",
-        "date":null
-      }
-    ]
-  },
-  {
     "id":"rapport-cc",
     "title":"La Cour des Comptes",
     "body":"Dans un rapport publié en juillet 2023, la Cour des comptes estime que le budget de l'organisation des jeux est largement sous-estimé, et cela malgré la rallonge pour compenser l'inflation.",
@@ -195,6 +176,25 @@
         "evenement":"rapport-cc",
         "href":"https:\/\/www.ccomptes.fr\/fr\/publications\/lorganisation-des-jeux-olympiques-et-paralympiques-de-paris-2024-1",
         "linkText":"Cour des Comptes",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"tokyo",
+    "title":"L'histoire chaotique des JO de Tokyo 2020",
+    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédente des jeux olympiques et paralympiques. On y apprend comment s'est déroulée la décision de reporter d'une année l'événement en raison du covid et de la population.",
+    "datetime":1689811200000,
+    "faicon":"video",
+    "categories":[
+      "critique"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"tokyo",
+        "href":"https:\/\/www.youtube.com\/watch?v=MFt_73746Ts",
+        "linkText":"Musubi",
         "date":null
       }
     ]
@@ -403,6 +403,25 @@
         "evenement":"hidalgo-2014",
         "href":"https:\/\/france3-regions.francetvinfo.fr\/paris-ile-de-france\/paris\/jo-2024-hidalgo-pas-vraiment-favorable-une-candidature-de-paris-427023.html",
         "linkText":"France Info",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"flamme-hitler",
+    "title":"Hitler inaugure la tradition du relai de la flamme olympique",
+    "body":"Ce rituel est retenu par Hitler pour les Jeux olympiques d'été de 1936 et sera ensuite repris jusqu'à nos jours.",
+    "datetime":-1073001600000,
+    "faicon":"fire",
+    "categories":[
+      "politique"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"flamme-hitler",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Flamme_olympique",
+        "linkText":"Wikipedia",
         "date":null
       }
     ]
