@@ -230,6 +230,52 @@
     ]
   },
   {
+    "id":"sans-abris-1",
+    "title":"Les sans-abris transférés discrètement hors de Paris et de la région parisienne",
+    "body":"Orchestré par le ministère du Logement, tout un système bancal de transfert des sans-abris et mal-logés commence à se mettre en place au plus grand profit des bailleurs qui comptent sur le tourisme pour maximiser le tarif des locations et des nuits d'hôtel.",
+    "nombres":null,
+    "datetime":1685059200000,
+    "faicon":"door-open",
+    "categories":[
+      "social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"sans-abris-1",
+        "href":"https:\/\/www.mediapart.fr\/journal\/france\/260523\/transferer-les-sans-abri-de-paris-le-projet-qui-inquiete",
+        "linkText":"Mediapart",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"residences-etudiantes-1",
+    "title":"Des étudiants seront délogés pendant la période des jeux",
+    "body":"C'est près de 3000 logements que les CROUS ont prévu de libérer et de mettre à dispositions des organisateurs de jeux pour les salariés et certains bénévoles.",
+    "nombres":"3 000 logements",
+    "datetime":1683763200000,
+    "faicon":"door-open",
+    "categories":[
+      "social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"residences-etudiantes-1",
+        "href":"https:\/\/www.liberation.fr\/checknews\/jo-2024-les-crous-vont-ils-deloger-des-etudiants-pour-mettre-des-chambres-a-disposition-des-organisateurs-20230511_H2DDI7JZUJDDBKUCOBH77HJFDA\/?redirected=1",
+        "linkText":"Liberation",
+        "date":null
+      },
+      {
+        "evenement":"residences-etudiantes-1",
+        "href":"https:\/\/www.france24.com\/fr\/france\/20231029-jo-de-paris-2024-100-euros-et-deux-places-contre-un-logement-crous-les-%C3%A9tudiants-amers",
+        "linkText":"France 24",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"jardins-aubervilliers-4",
     "title":"Le solarium ne sera finalement pas construit",
     "body":"Après des mois de mobilisation, les organisateurs revoient leur copie urbanistique et abandonnent la construction d'un solarium sur une partie des jardins partagés. Les pelleteuses étant tout de même passées par là, le mal est à moitié fait et aucune réparation n'est envisagée.",
