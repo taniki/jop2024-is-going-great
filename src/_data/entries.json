@@ -81,6 +81,26 @@
     ]
   },
   {
+    "id":"seine-1",
+    "title":"L'arrêt de la circulation fluviale pourrait avoir un impact économique et économique important",
+    "body":"Le blocage de la Seine pendant la cérémonie d'ouverture et certaines épreuves nécessitera un blocage de la Seine en pleine période des moissons. Selon un céréalier, le surcoût pourrait s'élever à 500 millions d'euros. Une coopérative agricole souligne quant à elle que cela annulera les efforts de réduction de l'empreinte environnementale de la filière.",
+    "nombres":"500 000 000 euros",
+    "datetime":1705276800000,
+    "faicon":"ship",
+    "categories":[
+      "économie"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"seine-1",
+        "href":"https:\/\/france3-regions.francetvinfo.fr\/paris-ile-de-france\/jo-de-paris-2024-les-cerealiers-s-alarment-des-restrictions-de-navigation-sur-la-seine-l-ete-prochain-en-pleine-periode-des-moissons-2905565.html",
+        "linkText":"France 3 Paris Île-de-France",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"tarif-louvre-2023",
     "title":"Augmentation du tarif du musée du Louvre",
     "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux olympiques. Drôle de coïncidence, non ?",
