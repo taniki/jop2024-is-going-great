@@ -3,6 +3,7 @@
     "id":"ratp-1",
     "title":"La RATP lance une nouvelle campagne de recrutement",
     "body":"Alors que les agents ont sonné l'alerte à plusieurs reprises sur la question du temps de formation des conducteurs, Jean Castex, maintenant PDG de la RATP, cherche à recruter des chauffeurs de bus et de train en vue du fort trafic attendu lors des Jeux. Les services de transport ne sont jamais revenus à leur niveau de fonctionnement d'avant la pandémie.",
+    "nombres":"5300 agents",
     "datetime":1705968000000,
     "faicon":"subway",
     "categories":[
@@ -20,9 +21,30 @@
     ]
   },
   {
+    "id":"flamme-1",
+    "title":"1 flamme, 1 coureur et 100 policiers",
+    "body":"Pas du tout dans l'exagération, le ministre de l'Intérieur fera escorter la flamme olympique par un cortège de 100 agents des forces de l'ordre. Beau symbole.",
+    "nombres":"100 policiers",
+    "datetime":1705881600000,
+    "faicon":"horse",
+    "categories":[
+      "politique"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"flamme-1",
+        "href":"https:\/\/www.lequipe.fr\/Jo-2024-paris\/Tous-sports\/Actualites\/La-flamme-des-jo-2024-sous-haute-protection-policiere\/1443939",
+        "linkText":"L'équipe",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"logement-benevoles",
     "title":"Pas de logement pour les bénévoles",
     "body":"45 000 personnes volontaires et bénévoles travailleront gratuitement pour la gloire des jeux et les bénéfices des sponsors. Il leur faudra se trouver un logement par eux-mêmes. Cela n'aura certainement aucun impact sur la présence des bénévoles.",
+    "nombres":"45 000 bénévoles",
     "datetime":1705622400000,
     "faicon":"house-user",
     "categories":[
@@ -42,6 +64,7 @@
     "id":"eaux-1",
     "title":"L'eau de la Seine loin des normes sanitaires à quelques mois des Jeux",
     "body":"Une enquête de France Info détaille dans un article très intéressant comment les tests de qualité de l'eau de la Seine révèlent qu'il sera certainement dangereux d'y héberger des épreuves sportives. Cela n'a pas déjà empêché des compétitions de s'y dérouler alors que les niveaux recommandés par l'ARS Île-de-France étaient complètement dépassés.",
+    "nombres":null,
     "datetime":1705536000000,
     "faicon":"swimmer",
     "categories":[
@@ -61,6 +84,7 @@
     "id":"tarif-louvre-2023",
     "title":"Augmentation du tarif du musée du Louvre",
     "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux olympiques. Drôle de coïncidence, non ?",
+    "nombres":"+5 euros",
     "datetime":1701993600000,
     "faicon":"money-bill-alt",
     "categories":[
@@ -81,6 +105,7 @@
     "id":"beaune-télétravail-2023",
     "title":"Prière de télétravailler pendant la durée des jeux",
     "body":"Le ministre des Transports prévient que l'infrastructure de transport ne sera pas là en priorité pour les \"usagers du quotidien\" qui sont priés de s'organiser, notamment en télétravaillant ou en posant des congés. On en est où des entreprises qui continuent à accepter le télétravail ?",
+    "nombres":null,
     "datetime":1701907200000,
     "faicon":"desktop",
     "categories":[
@@ -101,6 +126,7 @@
     "id":"callcenter-2023",
     "title":"Le prestataire pour les appels téléphoniques est déjà en souffrance",
     "body":"Le marché a été attribué à une entreprise qui a proposé une prestation au rabais, la suite va vous étonner.",
+    "nombres":null,
     "datetime":1701151200000,
     "faicon":"phone",
     "categories":[
@@ -120,6 +146,7 @@
     "id":"qrcode-2023",
     "title":"Des QR code pour circuler à paris",
     "body":"On pensait en avoir fini avec les QR codes, mais grâce au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
+    "nombres":null,
     "datetime":1701147600000,
     "faicon":"eye",
     "categories":[
@@ -139,6 +166,7 @@
     "id":"tarif-metro-2023",
     "title":"Augmentation des tarifs de transports pendant les JOP",
     "body":"Pour « assurer les transports » pendant les Jeux olympiques et paralympiques, Île-de-France Mobilités passera le prix des tickets de métro à l'unité à 4,00 euros alors qu'ils sont à 2,10 euros aujourd'hui.",
+    "nombres":"+1,90 euros",
     "datetime":1701061200000,
     "faicon":"train",
     "categories":[
@@ -165,6 +193,7 @@
     "id":"rapport-cc",
     "title":"La Cour des Comptes",
     "body":"Dans un rapport publié en juillet 2023, la Cour des comptes estime que le budget de l'organisation des jeux est largement sous-estimé, et cela malgré la rallonge pour compenser l'inflation.",
+    "nombres":null,
     "datetime":1689811200000,
     "faicon":"money-bill-alt",
     "categories":[
@@ -181,28 +210,10 @@
     ]
   },
   {
-    "id":"tokyo",
-    "title":"L'histoire chaotique des JO de Tokyo 2020",
-    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédente des jeux olympiques et paralympiques. On y apprend comment s'est déroulée la décision de reporter d'une année l'événement en raison du covid et de la population.",
-    "datetime":1689811200000,
-    "faicon":"video",
-    "categories":[
-      "critique"
-    ],
-    "color":"green",
-    "links":[
-      {
-        "evenement":"tokyo",
-        "href":"https:\/\/www.youtube.com\/watch?v=MFt_73746Ts",
-        "linkText":"Musubi",
-        "date":null
-      }
-    ]
-  },
-  {
     "id":"jardins-aubervilliers-4",
     "title":"Le solarium ne sera finalement pas construit",
     "body":"Après des mois de mobilisation, les organisateurs revoient leur copie urbanistique et abandonnent la construction d'un solarium sur une partie des jardins partagés. Les pelleteuses étant tout de même passées par là, le mal est à moitié fait et aucune réparation n'est envisagée.",
+    "nombres":"-1 solarium",
     "datetime":1657152000000,
     "faicon":"tree",
     "categories":[
@@ -219,9 +230,30 @@
     ]
   },
   {
+    "id":"tokyo",
+    "title":"L'histoire chaotique des JO de Tokyo 2020",
+    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédente des jeux olympiques et paralympiques. On y apprend comment s'est déroulée la décision de reporter d'une année l'événement en raison du covid et de la population.",
+    "nombres":null,
+    "datetime":1641686400000,
+    "faicon":"video",
+    "categories":[
+      "critique"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"tokyo",
+        "href":"https:\/\/www.youtube.com\/watch?v=MFt_73746Ts",
+        "linkText":"Musubi",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"attribution-2017",
     "title":"Paris se voit attribuer les Jeux de 2024",
     "body":"par un vote à l'unanimité et à main levée par les membres du CIO. Elle est la seule candidate. Los Angeles qui était également candidate se voit attribuer les jeux d'été de 2028 et retire ainsi sa candidature.",
+    "nombres":null,
     "datetime":1505260800000,
     "faicon":"handshake",
     "categories":[
@@ -241,6 +273,7 @@
     "id":"budapest",
     "title":"Budapest retire sa candidature",
     "body":"suite à la mobilisation d'un mouvement de jeunes militants. Ces derniers disent détenir une pétition avec 300 000 signatures ce qui est le double du nombre nécessaire pour initier un référendum.",
+    "nombres":null,
     "datetime":1487721600000,
     "faicon":"hand-paper",
     "categories":[
@@ -260,6 +293,7 @@
     "id":"rome",
     "title":"Rome retire sa candidature",
     "body":"mais on ne sait pas trop pourquoi.",
+    "nombres":null,
     "datetime":1476144000000,
     "faicon":"hand-paper",
     "categories":[
@@ -279,6 +313,7 @@
     "id":"docu-datagueule-2016",
     "title":"Sport mondialisé : du pain et des jeux",
     "body":"<blockquote>Jeux Olympiques, Coupes du Monde, d'Europe, Tour de France, Grand Chelem et autres... À travers la multiplication des grands événements sportifs mondialisés, l'émotion se diffuse et les valeurs du sport infusent. De grands idéaux devenus, au fil des sponsors, des slogans publicitaires qui envahissent l'espace public à chaque grande messe. Partons donc de l’Olympisme, ce berceau du sport mondial, pour questionner cette évidence du \"sport fédérateur\".<\/blockquote>",
+    "nombres":null,
     "datetime":1468195200000,
     "faicon":"video",
     "categories":[
@@ -298,6 +333,7 @@
     "id":"hambourg",
     "title":"Hambourg abandonne sa candidature",
     "body":"suite à un référendum majoritairement opposé à la candidature.",
+    "nombres":null,
     "datetime":1448755200000,
     "faicon":"hand-paper",
     "categories":[
@@ -317,6 +353,7 @@
     "id":"boston",
     "title":"Boston abandonne sa candidature",
     "body":"faute de soutiens populaires. Le maire n'était pas non plus franchement chaud.",
+    "nombres":null,
     "datetime":1437955200000,
     "faicon":"hand-paper",
     "categories":[
@@ -342,6 +379,7 @@
     "id":"candidature-2015",
     "title":"Paris candidate pour l'organisation des jeux d'été",
     "body":"La candidature est présidée par Anne Hidalgo et Tony Estanguet.",
+    "nombres":null,
     "datetime":1435017600000,
     "faicon":"star",
     "categories":[
@@ -373,6 +411,7 @@
     "id":"hollande-2014",
     "title":"François Hollande balance Paris sous le bus des jeux olympiques.",
     "body":"<blockquote>Alors président de la République, il qualifie les JO de “moment de ferveur” qui ramènera “plein d’emplois, plein d’industries”. Et d’ajouter que la maire de Paris ne veut prendre “aucun risque” car “dans la vie on est jamais trop prudent”.<\/blockquote>",
+    "nombres":null,
     "datetime":1415232000000,
     "faicon":"glasses",
     "categories":[
@@ -392,6 +431,7 @@
     "id":"hidalgo-2014",
     "title":"Anne Hidalgo n'est pas favorable à une nouvelle candidature de la ville de Paris.",
     "body":"La ville a déjà candidaté 3 fois : en 1990, en 2008 et en 2012. Elle a essuyé 3 échecs. Alors en pleine campagne électorale, Anne Hidalgo s'exprime assez clairement comme étant défavorable, pour des raisons économiques, à une nouvelle candidature.",
+    "nombres":null,
     "datetime":1393891200000,
     "faicon":"medal",
     "categories":[
@@ -411,6 +451,7 @@
     "id":"flamme-hitler",
     "title":"Hitler inaugure la tradition du relai de la flamme olympique",
     "body":"Alors que la flamme apparaît comme symbole en 1928. Ce n'est qu'en 1936 que ce rituel est retenu par Hitler pour les Jeux olympiques d'été de Berlin. La tradition perdure encore.",
+    "nombres":null,
     "datetime":-1073001600000,
     "faicon":"fire",
     "categories":[
