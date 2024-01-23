@@ -2,7 +2,7 @@
   {
     "id":"ratp-1",
     "title":"La RATP lance une nouvelle campagne de recrutement",
-    "body":"Alors que les agents ont sonné l'alerte à plusieurs reprises sur la question du temps de formation des conducteurs, Jean Castex, maintenant PDG de la RAT, cherche à recruter des chauffeurs de bus et de train en vue du fort trafic attendu lors des Jeux. Les services de transport ne sont jamais revenus à leur niveau de fonctionnement d'avant la pandémie.",
+    "body":"Alors que les agents ont sonné l'alerte à plusieurs reprises sur la question du temps de formation des conducteurs, Jean Castex, maintenant PDG de la RATP, cherche à recruter des chauffeurs de bus et de train en vue du fort trafic attendu lors des Jeux. Les services de transport ne sont jamais revenus à leur niveau de fonctionnement d'avant la pandémie.",
     "datetime":1705968000000,
     "faicon":"subway",
     "categories":[
@@ -22,7 +22,7 @@
   {
     "id":"logement-benevoles",
     "title":"Pas de logement pour les bénévoles",
-    "body":"45 000 personnes volontaires et bénévoles travailleront gratuitement pour la gloire des jeux et les bénéfices des sponsors. Cela sera à eux de se trouver un loger pour eux-même. Cela n'aura certainement aucun impact sur la présence des bénévoles.",
+    "body":"45 000 personnes volontaires et bénévoles travailleront gratuitement pour la gloire des jeux et les bénéfices des sponsors. Il leur faudra se trouver un logement par eux-mêmes. Cela n'aura certainement aucun impact sur la présence des bénévoles.",
     "datetime":1705622400000,
     "faicon":"house-user",
     "categories":[
@@ -60,7 +60,7 @@
   {
     "id":"tarif-louvre-2023",
     "title":"Augmentation du tarif du musée du Louvre",
-    "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux Olympiques. Drôle de coïncidence, non ?",
+    "body":"Le billet individuel va passer de 17 à 22 euros à 6 mois des Jeux olympiques. Drôle de coïncidence, non ?",
     "datetime":1701993600000,
     "faicon":"money-bill-alt",
     "categories":[
@@ -80,7 +80,7 @@
   {
     "id":"beaune-télétravail-2023",
     "title":"Prière de télétravailler pendant la durée des jeux",
-    "body":"Le ministre des transports prévient que l'infrastructure de transport ne sera pas là en priorité pour les \"usagers du quotidiens\" qui sont priés de s'organiser, notamment en télétravaillant ou en posant des congés. On en est où des entreprises qui continuent à accepter le télétravail.",
+    "body":"Le ministre des Transports prévient que l'infrastructure de transport ne sera pas là en priorité pour les \"usagers du quotidien\" qui sont priés de s'organiser, notamment en télétravaillant ou en posant des congés. On en est où des entreprises qui continuent à accepter le télétravail ?",
     "datetime":1701907200000,
     "faicon":"desktop",
     "categories":[
@@ -119,7 +119,7 @@
   {
     "id":"qrcode-2023",
     "title":"Des QR code pour circuler à paris",
-    "body":"On pensait en avoir fini avec les QR codes mais grace au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
+    "body":"On pensait en avoir fini avec les QR codes, mais grâce au covid, c'est maintenant bien ancré dans l'esprit des gouvernants.",
     "datetime":1701147600000,
     "faicon":"eye",
     "categories":[
@@ -138,7 +138,7 @@
   {
     "id":"tarif-metro-2023",
     "title":"Augmentation des tarifs de transports pendant les JOP",
-    "body":"Pour « assurer les transports » pendant les Jeux Olympiques et Paralympiques, Île-de-France Mobilités passera le prix des tickets de métro à l'unité à 4,00 euros alors qu'ils sont à 2,10 euros aujourd'hui.",
+    "body":"Pour « assurer les transports » pendant les Jeux olympiques et paralympiques, Île-de-France Mobilités passera le prix des tickets de métro à l'unité à 4,00 euros alors qu'ils sont à 2,10 euros aujourd'hui.",
     "datetime":1701061200000,
     "faicon":"train",
     "categories":[
@@ -164,7 +164,7 @@
   {
     "id":"tokyo",
     "title":"L'histoire chaotique des JO de Tokyo 2020",
-    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédentes des jeux olympiques et paralympiques. On y apprend comment s'est déroulé la décision de reporter d'une année l'événement en raison du covid et de la population.",
+    "body":"Vidéo très bien construite revenant sur les différentes controverses qui ont agité l'organisation de l'édition précédente des jeux olympiques et paralympiques. On y apprend comment s'est déroulée la décision de reporter d'une année l'événement en raison du covid et de la population.",
     "datetime":1689811200000,
     "faicon":"video",
     "categories":[
@@ -183,7 +183,7 @@
   {
     "id":"rapport-cc",
     "title":"La Cour des Comptes",
-    "body":"Dans un rapport publié en juillet 2023, la Cour des Comptes estime que le budget de l'organisation des jeux est largement sous-estimé et cela malgré la rallonge pour compenser l'inflation.",
+    "body":"Dans un rapport publié en juillet 2023, la Cour des comptes estime que le budget de l'organisation des jeux est largement sous-estimé, et cela malgré la rallonge pour compenser l'inflation.",
     "datetime":1689811200000,
     "faicon":"money-bill-alt",
     "categories":[
@@ -221,7 +221,7 @@
   {
     "id":"attribution-2017",
     "title":"Paris se voit attribuer les Jeux de 2024",
-    "body":"par un vote à l'unamité et à main levée par les membres du CIO. Elle est la seule candidate. Los Angeles qui était également candidate se voit attribué les jeux d'été de 2028 et retire ainsi sa candidature.",
+    "body":"par un vote à l'unanimité et à main levée par les membres du CIO. Elle est la seule candidate. Los Angeles qui était également candidate se voit attribuer les jeux d'été de 2028 et retire ainsi sa candidature.",
     "datetime":1505260800000,
     "faicon":"handshake",
     "categories":[
@@ -240,7 +240,7 @@
   {
     "id":"budapest",
     "title":"Budapest retire sa candidature",
-    "body":"suite à la mobilisation d'un mouvement de jeunes militants. Ces derniers disent détenir une pétition avec 300 000 signatures ce qui est le double du nombre nécessaire pour intier un référendum.",
+    "body":"suite à la mobilisation d'un mouvement de jeunes militants. Ces derniers disent détenir une pétition avec 300 000 signatures ce qui est le double du nombre nécessaire pour initier un référendum.",
     "datetime":1487721600000,
     "faicon":"hand-paper",
     "categories":[
@@ -278,7 +278,7 @@
   {
     "id":"docu-datagueule-2016",
     "title":"Sport mondialisé : du pain et des jeux",
-    "body":"<blockquote>Jeux Olympiques, Coupes du Monde, d'Europe, Tour de France, Grand Chelem et autres... À travers la multiplications des grands événements sportifs mondialisés, l'émotion se diffuse et les valeurs du sport infusent. De grands idéaux devenus, au fil des sponsors, des slogans publicitaires qui envahissent l'espace public à chaque grande messe. Partons donc de l’Olympisme, ce berceau du sport mondial, pour questionner cette évidence du \"sport fédérateur\".<\/blockquote>",
+    "body":"<blockquote>Jeux Olympiques, Coupes du Monde, d'Europe, Tour de France, Grand Chelem et autres... À travers la multiplication des grands événements sportifs mondialisés, l'émotion se diffuse et les valeurs du sport infusent. De grands idéaux devenus, au fil des sponsors, des slogans publicitaires qui envahissent l'espace public à chaque grande messe. Partons donc de l’Olympisme, ce berceau du sport mondial, pour questionner cette évidence du \"sport fédérateur\".<\/blockquote>",
     "datetime":1468195200000,
     "faicon":"video",
     "categories":[
@@ -316,7 +316,7 @@
   {
     "id":"boston",
     "title":"Boston abandonne sa candidature",
-    "body":"faute de soutiens populaire. Le maire n'était pas non plus franchement chaud.",
+    "body":"faute de soutiens populaires. Le maire n'était pas non plus franchement chaud.",
     "datetime":1437955200000,
     "faicon":"hand-paper",
     "categories":[
