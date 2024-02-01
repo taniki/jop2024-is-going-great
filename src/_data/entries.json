@@ -1,5 +1,26 @@
 [
   {
+    "id":"sécurité-1",
+    "title":"Les retraités pour combler les équipes des forces de sécurité",
+    "body":"Alors qu'un bataillon de forces de l'ordre digne d'une guerre civile, comprenant également la mobilisation de militaires, est mobilisé pour la sécurité des jeux. Les organisateurs estiment que ces effectifs ne seront pas suffisants. Après des campagnes de recrutements auprès des sans-emplois et des étudiants, c'est maintenant au tour des retraités d'être ciblés par l'administration sociale pour venir en renfort aux policiers, qui auront eux une belle prime tout de même. À date, il manque 5 500 personnes sur les 15 000 personnes supplémentaires prévues et sans compter les désistements de dernière minute. L'important, c'est d'anticiper.",
+    "nombres":"15 000",
+    "datetime":1706745600000,
+    "faicon":"glasses",
+    "categories":[
+      "travail",
+      "sécurité"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"sécurité-1",
+        "href":"https:\/\/www.mediapart.fr\/journal\/fil-dactualites\/310124\/jo-2024-apres-les-chomeurs-et-les-etudiants-les-retraites-appeles-jouer-les-agents-de-securite-pr",
+        "linkText":"AFP",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"police-1",
     "title":"Jusqu'à 1900 euros de prime pour les policiers",
     "body":"Les syndicats de police, mobilisés depuis plusieurs semaines dans diverses mobilisations pour leur propre pomme, ont obtenu de la part de leur ministre de nombreuses compensations économiques et sociales pour compenser le surplus de travail attendu.",
