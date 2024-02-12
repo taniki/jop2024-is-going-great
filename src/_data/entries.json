@@ -1,5 +1,31 @@
 [
   {
+    "id":"air-1",
+    "title":"Des douches d’air pur au village olympique",
+    "body":"Dans un grand moment de solutionnisme technologique, BFM se fait le relai des JO dans une capsule vidéo de la nouvelle ânerie pour ignorer les problèmes de santé publique et écologique. En effet quoi de mieux que des dispositifs électriques coûteux et dont l’efficacité reste à démontrer, pour assurer une atmosphère respirable ? Aucun mot également sur le devenir de ces appareils après les Jeux olympiques. Comme le souligne le site « contre attaque », « Pour les Jeux olympiques, la start-up nation réinvente les arbres ».",
+    "nombres":null,
+    "datetime":1707523200000,
+    "faicon":"tree",
+    "categories":[
+      "écologie"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"air-1",
+        "href":"https:\/\/contre-attaque.net\/2024\/02\/10\/pour-les-jeux-olympiques-la-start-up-nation-reinvente-les-arbres\/",
+        "linkText":"Contre Attaque",
+        "date":null
+      },
+      {
+        "evenement":"air-1",
+        "href":"https:\/\/www.bfmtv.com\/paris\/une-douche-d-air-pur-des-aspirateurs-a-pollution-installes-dans-le-village-olympique-des-jo-2024_AV-202402100159.html",
+        "linkText":"BFM",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"sécurité-1",
     "title":"Les retraités pour combler les équipes des forces de sécurité",
     "body":"Alors qu'un bataillon de forces de l'ordre digne d'une guerre civile, comprenant également la mobilisation de militaires, est mobilisé pour la sécurité des jeux. Les organisateurs estiment que ces effectifs ne seront pas suffisants. Après des campagnes de recrutements auprès des sans-emplois et des étudiants, c'est maintenant au tour des retraités d'être ciblés par l'administration sociale pour venir en renfort aux policiers, qui auront eux une belle prime tout de même. À date, il manque 5 500 personnes sur les 15 000 personnes supplémentaires prévues et sans compter les désistements de dernière minute. L'important, c'est d'anticiper.",
