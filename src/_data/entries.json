@@ -1,5 +1,31 @@
 [
   {
+    "id":"sondages-1",
+    "title":"41 % des Français ne déclarent pas « avoir l’intention de suivre » les jeux",
+    "body":"Les sondages et leur méthodologie sont toujours discutables, mais ce que révèle un sondage Harris Interactive non accessible mais cité par Le Monde. On ne peut pas vraiment s’étonner de la faible adhésion des citoyens quand l’événement s’annonce plus comme une démonstration de pouvoir qu’une fête populaire. Rappelons au passage que ce sont des pétitions, des votes et des référendums qui ont amené Budapest, Hamburg et Boston à retirer leurs candidatures. Anne Hidalgo avait également fait du référendum sur la candidature un de ses sujets de campagne avant de changer d’avis ayant perdu la possibilité d’héberger l’Exposition universelle. Finalement, le CIO a renoncé à faire un sondage dans l’anticipation prévisible de résultats trop négatifs à la veille de l’attribution des jeux.",
+    "nombres":"41 %",
+    "datetime":1707696000000,
+    "faicon":"poll",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"sondages-1",
+        "href":"https:\/\/www.francetvinfo.fr\/les-jeux-olympiques\/tokyo-2020\/paris-ne-veut-pas-d-un-referendum-pour-les-jo_4510081.html",
+        "linkText":"France Info",
+        "date":"2015-11-30"
+      },
+      {
+        "evenement":"sondages-1",
+        "href":"https:\/\/www.lemonde.fr\/sport\/article\/2024\/02\/12\/paris-2024-les-europeens-et-les-americains-se-montrent-plus-enthousiastes-pour-les-jeux-que-les-francais_6216099_3242.html",
+        "linkText":"Le Monde",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"air-1",
     "title":"Des douches d’air pur au village olympique",
     "body":"Dans un grand moment de solutionnisme technologique, BFM se fait le relai des JO dans une capsule vidéo de la nouvelle ânerie pour ignorer les problèmes de santé publique et écologique. En effet quoi de mieux que des dispositifs électriques coûteux et dont l’efficacité reste à démontrer, pour assurer une atmosphère respirable ? Aucun mot également sur le devenir de ces appareils après les Jeux olympiques. Comme le souligne le site « contre attaque », « Pour les Jeux olympiques, la start-up nation réinvente les arbres ».",
