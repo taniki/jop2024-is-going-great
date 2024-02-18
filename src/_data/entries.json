@@ -1,5 +1,31 @@
 [
   {
+    "id":"revers-medaille-1",
+    "title":"Le revers de la médaille",
+    "body":"Plus de 80 associations, dont Médecins du monde et ATD-quart monde, s'unissent pour dénoncer les risques sociaux avérés. En regardant l'impact des éditions précédentes, il n'est pas très compliqué d'anticiper un impact négatif sur des populations déjà en situation d'exclusion sociale.",
+    "nombres":null,
+    "datetime":1708214400000,
+    "faicon":"medal",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"revers-medaille-1",
+        "href":"https:\/\/lereversdelamedaille.fr\/",
+        "linkText":"Le revers de la médaille",
+        "date":null
+      },
+      {
+        "evenement":"revers-medaille-1",
+        "href":"https:\/\/www.mediapart.fr\/journal\/france\/180224\/jeux-olympiques-paris-aussi-veut-cacher-les-pauvres",
+        "linkText":"Mediapart",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"sondages-1",
     "title":"41 % des Français ne déclarent pas « avoir l’intention de suivre » les jeux",
     "body":"Les sondages et leur méthodologie sont toujours discutables, mais ce que révèle un sondage Harris Interactive non accessible mais cité par Le Monde. On ne peut pas vraiment s’étonner de la faible adhésion des citoyens quand l’événement s’annonce plus comme une démonstration de pouvoir qu’une fête populaire. Rappelons au passage que ce sont des pétitions, des votes et des référendums qui ont amené Budapest, Hamburg et Boston à retirer leurs candidatures. Anne Hidalgo avait également fait du référendum sur la candidature un de ses sujets de campagne avant de changer d’avis ayant perdu la possibilité d’héberger l’Exposition universelle. Finalement, le CIO a renoncé à faire un sondage dans l’anticipation prévisible de résultats trop négatifs à la veille de l’attribution des jeux.",
