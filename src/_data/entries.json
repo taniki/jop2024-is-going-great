@@ -1,5 +1,25 @@
 [
   {
+    "id":"carte-1",
+    "title":"La carto des JO",
+    "body":"Plus pratique que <a href=\"https:\/\/anticiperlesjeux.gouv.fr\">la catastrophe ambulante gouvernementale<\/a>, une carte interactive produite par Tanguy Morlier permet de mieux s'y retrouver dans les zones concernées par des restrictions de circulation.",
+    "nombres":null,
+    "datetime":1721001600000,
+    "faicon":"map",
+    "categories":[
+      "sécurité"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"carte-1",
+        "href":"https:\/\/cartodesjo.fr\/",
+        "linkText":"Carto des JO",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"revers-medaille-1",
     "title":"Le revers de la médaille",
     "body":"Plus de 80 associations, dont Médecins du monde et ATD-quart monde, s'unissent pour dénoncer les risques sociaux avérés. En regardant l'impact des éditions précédentes, il n'est pas très compliqué d'anticiper un impact négatif sur des populations déjà en situation d'exclusion sociale.",
