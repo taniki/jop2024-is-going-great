@@ -1,9 +1,9 @@
 [
   {
-    "id":"aéroport-1",
-    "title":"Les aéroports de Paris en grêve le 26 juillet ?",
-    "body":"Un premier préavis de grève des personnels des salariés des aéroports de Paris avait été déposé début juillet. Avec les jeux arrivant à grands pas, un accord avait été trouvé. Insatisfaisant selon le syndicat Force ouvrière qui réclame une meilleure compensation des hausses d'activité qui serait à la mesure de l'événement.",
-    "nombres":"1000 euros",
+    "id":"pompiers-1",
+    "title":"Préavis de grêve des pompiers de Lyon",
+    "body":"Les Jeux n'auront pas lieu qu'à Paris. Ainsi dès ce mercredi, la compétition commencera avant la cérémonie d'ouverture. Alors que les policiers ont déjà obtenu la garantie d'une bonne prime ainsi que les pompiers de Paris, les pompiers du Rhône, elleux, n'auront rien malgré leur mobilisation pour la garantie de la sécurité des événements sportifs ayant lieu dans leur région. Un préavis de grêve pour ce mercredi à été déposé par le syndicat Sud.",
+    "nombres":null,
     "datetime":1721606400000,
     "faicon":"fire",
     "categories":[
@@ -44,6 +44,21 @@
         "linkText":"Twitter",
         "date":null
       }
+    ]
+  },
+  {
+    "id":"aéroport-1",
+    "title":"Les aéroports de Paris en grêve le 26 juillet ?",
+    "body":"Un premier préavis de grève des personnels des salariés des aéroports de Paris avait été déposé début juillet. Avec les jeux arrivant à grands pas, un accord avait été trouvé. Insatisfaisant selon le syndicat Force ouvrière qui demande une meilleure compensation des hausses d'activité qui serait à la mesure de l'événement. Dans ce sens, le syndicat a indiqué déposer un nouveau préavis de grève toujours pour le jour d'ouverture des Jeux.",
+    "nombres":"1000 euros",
+    "datetime":1721606400000,
+    "faicon":"fire",
+    "categories":[
+      "social"
+    ],
+    "color":"green",
+    "links":[
+
     ]
   },
   {
