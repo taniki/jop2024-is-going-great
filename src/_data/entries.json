@@ -1,5 +1,37 @@
 [
   {
+    "id":"greve-danse-ouverture",
+    "title":"Grêve des danseur·ses de la cérémonie d'ouverture",
+    "body":"La cérémonie d'ouverture aura lieu le 26 juillet. C'est pendant la dernière répitition qu'environ 150 danseur·ses ont décidé de protester pour leurs conditions de travail. Impressionnantes images récupérées par Raphaël Godet, journaliste à France Info.",
+    "nombres":"150",
+    "datetime":1721606400000,
+    "faicon":"fire",
+    "categories":[
+      "social"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"greve-danse-ouverture",
+        "href":"https:\/\/www.francetvinfo.fr\/les-jeux-olympiques\/jo-de-paris-2024-des-danseurs-de-la-ceremonie-d-ouverture-refusent-de-participer-a-l-ultime-repetition-en-signe-de-protestation_6680664.html",
+        "linkText":"France Info",
+        "date":null
+      },
+      {
+        "evenement":"greve-danse-ouverture",
+        "href":"https:\/\/www.mediapart.fr\/journal\/economie-et-social\/190724\/les-danseurs-de-la-ceremonie-d-ouverture-des-jo-menacent-de-faire-greve",
+        "linkText":"Mediapart",
+        "date":null
+      },
+      {
+        "evenement":"greve-danse-ouverture",
+        "href":"https:\/\/x.com\/Raphaelgodet\/status\/1815428936290926927",
+        "linkText":"Twitter",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"expulsions-1",
     "title":"Expulsion du campement de la porte de Pantin",
     "body":"À quelques pas du parc de la Villette et quelques jours des festivités autour des jeux qui y auront lieu, un campement de réfugié·es est expulsé au petit matin. C'est la dernière ligne droite, on cache la misère en s'en prenant toujours aux mêmes.",
