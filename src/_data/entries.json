@@ -20,6 +20,26 @@
     ]
   },
   {
+    "id":"budget-1",
+    "title":"Une rallonge de 33 millions pour le COJOP",
+    "body":"La suprise est totale. L'organisation des jeux est déficitaire. C'est l'État et les collectivités locales qui mettront la main à la poche pour dépanner le comité d'organisation de quelques dizaines de millions. Ce qui fait donc 80 + 45 + 33 = 158 millions d'euros qui proviendront des finances publiques et donc des contribuables.",
+    "nombres":"33 millions",
+    "datetime":1719360000000,
+    "faicon":"money-bill-alt",
+    "categories":[
+      "économie"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"budget-1",
+        "href":"https:\/\/www.lemonde.fr\/sport\/article\/2024\/06\/26\/paris-2024-l-etat-accorde-une-rallonge-de-33-millions-d-euros-pour-l-organisation-des-jeux-paralympiques_6243902_3242.html",
+        "linkText":"Le Monde",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"revers-medaille-1",
     "title":"Le revers de la médaille",
     "body":"Plus de 80 associations, dont Médecins du monde et ATD-quart monde, s'unissent pour dénoncer les risques sociaux avérés. En regardant l'impact des éditions précédentes, il n'est pas très compliqué d'anticiper un impact négatif sur des populations déjà en situation d'exclusion sociale.",
