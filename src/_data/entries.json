@@ -1,8 +1,8 @@
 [
   {
     "id":"pompiers-1",
-    "title":"Préavis de grêve des pompiers de Lyon",
-    "body":"Les Jeux n'auront pas lieu qu'à Paris. Ainsi dès ce mercredi, la compétition commencera avant la cérémonie d'ouverture. Alors que les policiers ont déjà obtenu la garantie d'une bonne prime ainsi que les pompiers de Paris, les pompiers du Rhône, elleux, n'auront rien malgré leur mobilisation pour la garantie de la sécurité des événements sportifs ayant lieu dans leur région. Un préavis de grêve pour ce mercredi à été déposé par le syndicat Sud.",
+    "title":"Préavis de grève des pompiers de Lyon",
+    "body":"Les Jeux n'auront pas lieu qu'à Paris. Ainsi, dès ce mercredi, la compétition commencera avant la cérémonie d'ouverture. Alors que les policiers ont déjà obtenu la garantie d'une bonne prime ainsi que les pompiers de Paris, les pompiers du Rhône, elleux, n'auront rien malgré leur mobilisation pour la garantie de la sécurité des événements sportifs ayant lieu dans leur région. Un préavis de grève pour ce mercredi a été déposé par le syndicat Sud.",
     "nombres":null,
     "datetime":1721606400000,
     "faicon":"fire",
@@ -31,8 +31,8 @@
   },
   {
     "id":"greve-danse-ouverture",
-    "title":"Grêve des danseur·ses de la cérémonie d'ouverture",
-    "body":"La cérémonie d'ouverture aura lieu le 26 juillet. C'est pendant la dernière répitition qu'environ 150 danseur·ses ont décidé de protester pour leurs conditions de travail. Impressionnantes images récupérées par Raphaël Godet, journaliste à France Info.",
+    "title":"Grève des danseur·ses de la cérémonie d'ouverture",
+    "body":"La cérémonie d'ouverture aura lieu le 26 juillet. C'est pendant la dernière répétition qu'environ 150 danseur·ses ont décidé de protester pour leurs conditions de travail. Impressionnantes images récupérées par Raphaël Godet, journaliste à France Info.",
     "nombres":"150",
     "datetime":1721606400000,
     "faicon":"fire",
@@ -104,7 +104,7 @@
   {
     "id":"budget-1",
     "title":"Une rallonge de 33 millions pour le COJOP",
-    "body":"La suprise est totale. L'organisation des jeux est déficitaire. C'est l'État et les collectivités locales qui mettront la main à la poche pour dépanner le comité d'organisation de quelques dizaines de millions. Ce qui fait donc 80 + 45 + 33 = 158 millions d'euros qui proviendront des finances publiques et donc des contribuables.",
+    "body":"La surprise est totale. L'organisation des jeux est déficitaire. C'est l'État et les collectivités locales qui mettront la main à la poche pour dépanner le comité d'organisation de quelques dizaines de millions. Ce qui fait donc 80 + 45 + 33 = 158 millions d'euros qui proviendront des finances publiques et donc des contribuables.",
     "nombres":"33 millions",
     "datetime":1719360000000,
     "faicon":"money-bill-alt",
