@@ -1,5 +1,25 @@
 [
   {
+    "id":"contre-ceremonie-1",
+    "title":"Contre-cérémonie d'ouverture",
+    "body":"Le syndicat Solidaires et le collectif Saccage 2024 organisent le 25 juillet, la veille de la cérémonie d'ouverture officielle, un rassemblement place de la République à Paris.",
+    "nombres":null,
+    "datetime":1721865600000,
+    "faicon":"sun",
+    "categories":[
+      "démocratie"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"contre-ceremonie-1",
+        "href":"https:\/\/solidaires.org\/sinformer-et-agir\/actualites-et-mobilisations\/communiques\/contre-ceremonie-douverture-des-jeux-olympiques-et-paralympique-le-25-juillet\/",
+        "linkText":"Solidaires",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"pompiers-1",
     "title":"Préavis de grève des pompiers de Lyon",
     "body":"Les Jeux n'auront pas lieu qu'à Paris. Ainsi, dès ce mercredi, la compétition commencera avant la cérémonie d'ouverture. Alors que les policiers ont déjà obtenu la garantie d'une bonne prime ainsi que les pompiers de Paris, les pompiers du Rhône, elleux, n'auront rien malgré leur mobilisation pour la garantie de la sécurité des événements sportifs ayant lieu dans leur région. Un préavis de grève pour ce mercredi a été déposé par le syndicat Sud.",
@@ -77,6 +97,32 @@
         "evenement":"expulsions-1",
         "href":"https:\/\/www.mediapart.fr\/journal\/france\/190724\/paris-2024-derniere-ligne-droite-pour-les-expulsions",
         "linkText":"Mediapart",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"covid-1",
+    "title":"Le cluster covid, nouvelle discipline olympique",
+    "body":"La pandémie permanente du covid a seulement disparu du cycle médiatique et des politiques publiques. Le virus circule donc toujours et surtout dans les lieux clos contenant une foule. Une salle de sport pendant un événement par exemple. Un collectif de bénévoles manifeste ainsi son inquiétude et réclame quelques mesures préventives plutôt que du déni.",
+    "nombres":null,
+    "datetime":1721001600000,
+    "faicon":"head-side-mask",
+    "categories":[
+      "santé"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"covid-1",
+        "href":"https:\/\/www.cbsnews.com\/news\/2024-paris-olympics-covid-cases-organizers-seem-unfazed-outbreak-risk\/",
+        "linkText":"CBS",
+        "date":null
+      },
+      {
+        "evenement":"covid-1",
+        "href":"https:\/\/blogs.mediapart.fr\/volontaires-inquiets-paris-2024\/blog\/150724\/we-are-volunteers-paris-2024-and-we-resign-due-lack-covid-19-measures",
+        "linkText":"Le Club de Mediapart",
         "date":null
       }
     ]
