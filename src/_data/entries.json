@@ -82,6 +82,26 @@
     ]
   },
   {
+    "id":"messe-1",
+    "title":"Messe d'inauguration",
+    "body":"Une semaine avant la cérémonie d'ouverture officielle, une messe catholique a inauguré la \"trêve olympique\". Une invention récente et moderne riche en mythologie. Cela aurait pu également être anecdotique si tout le haut de la pyramide olympique n'y avait pas été convié et répondu présent.",
+    "nombres":"1 messe",
+    "datetime":1721347200000,
+    "faicon":"cross",
+    "categories":[
+      "social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"messe-1",
+        "href":"https:\/\/www.leparisien.fr\/jo-paris-2024\/les-jo-sont-un-symbole-de-paix-une-messe-a-la-madeleine-basee-sur-lunite-a-une-semaine-des-jeux-19-07-2024-OBDCUIP5DVGUTD3MA4KGKJWOOM.php",
+        "linkText":"Le Parisien",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"expulsions-1",
     "title":"Expulsion du campement de la porte de Pantin",
     "body":"À quelques pas du parc de la Villette et quelques jours des festivités autour des jeux qui y auront lieu, un campement de réfugié·es est expulsé au petit matin. C'est la dernière ligne droite, on cache la misère en s'en prenant toujours aux mêmes.",
