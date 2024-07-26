@@ -1,5 +1,43 @@
 [
   {
+    "id":"sabotage-1",
+    "title":"Comment contenir la fuite des parisien·nes",
+    "body":"Environ 800 000 personnes tentent d'échapper aux Jeux Olympique. Quatre postes de signalisations prennent alors feu dans la nuit pour une raison encore inconnu. Certains médias n'ont pas attendu pour se laisser aller à leur élan de droite en attribuant la cause de ces \"sabotages\" à \"l'ultra-gauche\". Dans un esprit de trêve olympique, le gouvernement et ses représentant·es appellent quant à eux à la modération et à la prudence. Le mode opératoire rappelle fortement le mouvement Luddite.",
+    "nombres":"800000",
+    "datetime":1721952000000,
+    "faicon":"fire",
+    "categories":[
+      "surveillance"
+    ],
+    "color":"green",
+    "links":[
+      {
+        "evenement":"sabotage-1",
+        "href":"https:\/\/www.mediapart.fr\/journal\/france\/260724\/une-campagne-de-sabotage-sur-le-reseau-tgv-paralyse-la-france",
+        "linkText":"Mediapart",
+        "date":null
+      },
+      {
+        "evenement":"sabotage-1",
+        "href":"https:\/\/www.lemonde.fr\/societe\/live\/2024\/07\/26\/en-direct-attaque-massive-contre-la-sncf-reprise-partielle-et-progressive-du-trafic-un-train-sur-trois-circule-sur-la-ligne-atlantique_6258634_3224.html",
+        "linkText":"Le Monde Live",
+        "date":null
+      },
+      {
+        "evenement":"sabotage-1",
+        "href":"https:\/\/www.nytimes.com\/2024\/07\/26\/world\/olympics\/olympics-paris-train-arson.html",
+        "linkText":"New York Times",
+        "date":null
+      },
+      {
+        "evenement":"sabotage-1",
+        "href":"https:\/\/fr.wikipedia.org\/wiki\/Luddisme",
+        "linkText":"Wikipedia",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"contre-ceremonie-1",
     "title":"Contre-cérémonie d'ouverture",
     "body":"Le syndicat Solidaires et le collectif Saccage 2024 organisent le 25 juillet, la veille de la cérémonie d'ouverture officielle, un rassemblement place de la République à Paris.",
