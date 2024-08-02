@@ -1,5 +1,51 @@
 [
   {
+    "id":"covid-2",
+    "title":"Le covid s'invite dans la compétition",
+    "body":"Plusieurs athlètes ont du déclarer forait pendant que d'autres ont concourru alors qu'iels étaient positif·ves. Il aura fallu cela avant une prise de conscience des participant·es qui ont donc enfin décidé à porter un masque.",
+    "nombres":null,
+    "datetime":1722384000000,
+    "faicon":"head-side-mask",
+    "categories":[
+      "santé"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"covid-2",
+        "href":"https:\/\/time.com\/7006533\/covid-19-athletes-paris-olympics\/",
+        "linkText":"Time",
+        "date":null
+      },
+      {
+        "evenement":"covid-2",
+        "href":"https:\/\/www.theguardian.com\/sport\/article\/2024\/jul\/30\/olympic-swimmers-wear-masks-as-concerns-over-covid-rise-across-camps",
+        "linkText":"The Guardian",
+        "date":null
+      }
+    ]
+  },
+  {
+    "id":"village-2",
+    "title":"Pas de fête au village pour le basket américain",
+    "body":"Depuis l'intégration des ligues américaines de basketball dans la compétition olympique, les athlètes de ces dernières ont négocié la permission de ne pas être loger au village avec le reste de la plèbe sportive. Différence de traitement qui souligne l'éventail de différences économiques entre les compétiteur·rices. Faire chambre à part coûte tout de même 15 millions de dollars à la délégation américaine.",
+    "nombres":null,
+    "datetime":1722038400000,
+    "faicon":"basketball-ball",
+    "categories":[
+      "social"
+    ],
+    "color":"red",
+    "links":[
+      {
+        "evenement":"village-2",
+        "href":"https:\/\/www.forbes.com\/sites\/justinbirnbaum\/2024\/07\/27\/team-usas-basketball-superstars-are-staying-outside-the-olympic-village-at-a-cost-of-15-million\/",
+        "linkText":"Forbes",
+        "date":null
+      }
+    ]
+  },
+  {
     "id":"sabotage-1",
     "title":"Comment contenir la fuite des parisien·nes",
     "body":"Environ 800 000 personnes tentent d'échapper aux Jeux Olympique. Quatre postes de signalisations prennent alors feu dans la nuit pour une raison encore inconnu. Certains médias n'ont pas attendu pour se laisser aller à leur élan de droite en attribuant la cause de ces \"sabotages\" à \"l'ultra-gauche\". Dans un esprit de trêve olympique, le gouvernement et ses représentant·es appellent quant à eux à la modération et à la prudence. Le mode opératoire rappelle fortement le mouvement Luddite.",
